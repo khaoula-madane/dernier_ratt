@@ -1,0 +1,19 @@
+{
+  "name": "dernier_ratt",
+  "version": "1.0.0",
+  "description": "ESSAI \r Anastasya\r RAHMA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaoula-madane/dernier_ratt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaoula-madane/dernier_ratt/issues"
+  },
+  "homepage": "https://github.com/khaoula-madane/dernier_ratt#readme"
+}
